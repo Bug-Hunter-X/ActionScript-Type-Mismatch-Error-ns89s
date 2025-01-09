@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: type mismatch. The `myFunction` expects a String and an int. The second call to the function passes the arguments in the wrong order and type, which causes an error.  The solution shows how to resolve this by ensuring the correct argument types are passed.
